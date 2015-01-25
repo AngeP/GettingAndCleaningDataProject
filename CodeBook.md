@@ -1,6 +1,7 @@
 # Code Book
 
 ## Data Dictionary of Tidy Data Variables
+
 Variable Names | Descriptions
 activities| 6 levels. WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS SITTING, STANDING, LAYING
 subjects| the subject who performed the activity, ranges from 1 to 30
