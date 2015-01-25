@@ -9,8 +9,6 @@
 # 1.
 ## Read in data  
 f <- file.path("C:/Users/apen/Documents/R programming/Cousera/Course3-GettingandCleaningData/Project", "UCI HAR Dataset")
-l <- list.files(f, recursive=T)
-l
 
 ytrain   <- read.table(file.path(f, "train", "Y_train.txt"),header = F)
 ytest    <- read.table(file.path(f, "test", "Y_test.txt" ),header = F)
